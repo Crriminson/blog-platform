@@ -1,5 +1,5 @@
 
-# Devnovate Blog Platform
+# Blog Platform
 
 A full-stack blog platform with user authentication, admin moderation, and modern React frontend. Built with Node.js, Express, MongoDB, and React (Vite).
 
